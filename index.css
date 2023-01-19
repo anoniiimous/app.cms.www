@@ -119,15 +119,15 @@
         width: 100%;
         overflow: visible;
         position: relative;
-        min-height: 100%;
+        /* min-height: 100%; */
         /* background: #bbb; */
         overflow-x: hidden;
     }
 
     ico {
         align-items: center;
-        display: flex;
-        display: webkit-flex;
+        display: inline-flex;
+        display: webkit-inline-flex;
         justify-content: center;
     }
 
